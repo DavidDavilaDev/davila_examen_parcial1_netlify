@@ -37,10 +37,12 @@ function IndexHeader() {
             <img
               alt="..."
               className="n-logo"
-              src={require("assets/img/now-logo.png")}
+              src={require("assets/img/logo1.png")}
             ></img>
-            <h1 className="h1-seo">Now UI Kit.</h1>
-            <h3>A beautiful Bootstrap 4 UI kit. Yours free.</h3>
+            <h1 className="h1-seo">UNIVERSDAD TECNOLOGICA DE DURANGO</h1>
+            <h3>NOMBRE DEL ALUMNO: DAVID DAVILA</h3>
+            <h4>GESTION DEL PROCESO DE SOFTWARE</h4>
+            <h5>PARCIAL I</h5>
           </div>
           <h6 className="category category-absolute">
             Designed by{" "}
